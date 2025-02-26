@@ -25,7 +25,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <h2 className='text-[26px] font-semibold '>Contact Us</h2>
-                    <p className='mt-[30px] w-[300px] font-medium text-[24px] text-[#555555]'>example@email.com</p>
+                    <p className='mt-[30px] w-[300px] font-medium text-[24px] text-[#555555]'>example@email.com1</p>
                     <p className='mt-[30px] w-[300px] font-medium text-[24px] text-[#555555]'>+64 958 248 966</p>
                     <p className='mt-[30px] w-[300px] font-medium text-[24px] text-[#555555]'>Social media</p>
                 </div>
